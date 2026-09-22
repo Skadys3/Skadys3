@@ -1,4 +1,6 @@
-## Hi👋,  I'm Skadys :3
+## Hi👋,  I'm Skadys :3.
+I've been programming for 2 years now 📖
+I’m interested in IT sphere at least for 4 years 👾
 
 ## Software Developer
 
