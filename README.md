@@ -1,4 +1,4 @@
-## Hi👋,  I'm Skadys :3.
+## Hi👋,  I'm Skadys <3.
 I've been programming for 2 years now 📖  
 
 I’m interested in IT sphere at least for 4 years 👾
@@ -29,3 +29,5 @@ __Data Bases 💾:__
 ## What I'm use:
 
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white) ![Niri](https://img.shields.io/badge/Niri-%23D55C44.svg?style=for-the-badge&logo=niri&logoColor=white) ![Zed](https://img.shields.io/badge/zedindustries-%23084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white) ![Webstorm](https://img.shields.io/badge/webstorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+
+Want to reach me? 📫 ([https://t.me](https://t.me/Dinya33))
